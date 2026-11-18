@@ -1,4 +1,4 @@
-# Merhaba, ben İrem 👋
+# Merhaba, ben İrem 
 
 Web tasarım ve kodlama okuyorum. Tasarımı **Figma**'da yapıp **HTML, CSS (Tailwind), JavaScript ve PHP** ile koda dökmeyi seviyorum. Her projede telefon, tablet ve masaüstünde düzgün görünen arayüzler hedefliyorum.
 
@@ -14,14 +14,14 @@ Web tasarım ve kodlama okuyorum. Tasarımı **Figma**'da yapıp **HTML, CSS (Ta
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## ⭐ Öne çıkan projeler
+##  Öne çıkan projeler
 
 | Proje | Açıklama |
 | --- | --- |
 | [**Karma — WooCommerce Teması**](https://github.com/iremerdoan/karma-woocommerce-tema) | Figma'da tasarlayıp Tailwind CSS ile kodladığım, mobil uyumlu giyim mağazası teması. Ürün galerisi, renk/beden seçici ve panelden yönetilebilen ayarlar. |
 | [**Lotus Klinik Sitesi**](https://github.com/iremerdoan/lotus-klinik-sitesi) | Bir psikiyatri kliniği için Tailwind CSS ve DaisyUI ile kodladığım 7 sayfalık tanıtım sitesi. |
 
-## 🌱 Sırada
+##  Sırada
 
 - Mobil uygulama geliştirme (React Native)
 - Karma için mobil mağaza uygulaması
